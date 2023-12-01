@@ -1,0 +1,125 @@
+* {
+    font-family: 'Nanum Gothic', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+}
+.mibg {
+    background-image: url(imagenes/banner.jpg);
+    margin-top: 5vh;
+}
+.link-nosotros {
+    color: rgba(240, 248, 255, 0);
+    user-select: none;
+    margin-top: 50px;
+    padding-top: 100px;
+}
+.link-recetas {
+    color: rgba(240, 248, 255, 0);
+    user-select: none;
+    margin-top: 30px;
+    padding-top: 80px;   
+}
+.link-galeria {
+    color: rgba(240, 248, 255, 0);
+    user-select: none;
+    margin-top: 30px;
+    padding-top: 100px;    
+}
+.link-contacto {
+    color: rgba(240, 248, 255, 0);
+    user-select: none;
+    margin-top: 10px;
+    padding-top: 50px;    
+}
+.recetas-shadow {
+    box-shadow: 0 0px 10px rgba(207, 207, 207, 0.616);  
+    
+}
+.sombra {
+    box-shadow: 0 0px 10px rgba(207, 207, 207, 0.616);  
+}
+.alto{
+    height: 85vh;
+    background-size: cover;
+    
+}
+.alto-texto {
+    height: 35vh;
+    padding: 4em 6em;
+    
+    margin-top: 10%;
+    
+    width: 35em;
+}
+.alto-footer {
+    margin-top: 90px;
+    height: 17vh;
+    padding-top: 70px;
+    box-shadow: 0 0px 15px rgb(207, 207, 207);
+}
+.bg-flan {
+    background-image: url(imagenes/Flan-de-arroz.png);
+    background-repeat: no-repeat;
+}
+
+.galeria-m {
+    margin-top: 80px;
+    margin-bottom: 50px;
+    
+}
+
+textarea {
+    margin-top: 10px;
+    min-height: 50px;
+    max-height: 250px;
+}
+
+.redes ul li {
+    list-style: none ;
+
+}
+.redes img{
+   width: 15%; 
+    margin-top: 2.5em;
+}
+.center {
+    float: center;
+}
+.border-right {
+    border-right-style: solid ;
+    border-color: rgba(0, 0, 0, 0.5);
+    border-width: 1px;
+}
+
+.bg-ingredientes {
+    background-color: rgba(165, 165, 165, 0.301);
+}
+
+.col h2 {
+    padding-top: 35px;
+    padding-bottom: 40px;
+    font-size: 40px;
+}
+
+#flan {
+    color: rgba(240, 248, 255, 0);
+    user-select: none;
+    
+    padding-top: 80px;
+}
+#fruta {
+    color: rgba(240, 248, 255, 0);
+    user-select: none;
+    
+    padding-top: 80px;
+}
+#tarta {
+    color: rgba(240, 248, 255, 0);
+    user-select: none;
+    
+    padding-top: 80px;
+}
+#galletas {
+    color: rgba(240, 248, 255, 0);
+    user-select: none;
+    padding-top: 80px;
+}
